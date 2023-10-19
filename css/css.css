@@ -58,6 +58,7 @@ input[type="password"] {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 #loginButton:hover {
@@ -76,6 +77,7 @@ input[type="password"] {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .singInWithGoogle button:hover {
